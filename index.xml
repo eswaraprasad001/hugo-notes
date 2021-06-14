@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eswar Logs</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Eswar Logs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jun 2021 13:33:58 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://example.com/posts/imp-notes/</link>
+      <pubDate>Mon, 14 Jun 2021 13:33:58 +0530</pubDate>
+      
+      <guid>https://example.com/posts/imp-notes/</guid>
+      <description>IMP Notes
+ML Topics: Pandas &amp;amp; Numpy Linear Algebra for Machine learning Basic Probability and Statistics Regression Classification Clustering Exploratory Data Analysis Regularization Hyperparameter Tuning Feature Engineering Kernel methods Handling missing Data BootStrapped aggregation Gradient Boosting Techniques Clustering- Centroids and algorithmns
+  int i; for (i = 0; i &amp;lt; 5; i++) { if (i &amp;gt;= 2) { break; } System.out.println(&amp;ldquo;Yuhu&amp;rdquo;); } System.out.println(i); // Output: // Yuhu // Yuhu // 2</description>
+    </item>
+    
+  </channel>
+</rss>
